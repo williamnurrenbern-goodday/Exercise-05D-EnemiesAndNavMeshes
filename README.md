@@ -2,18 +2,18 @@
 
 
 ## Implementation
-[1] Repository contains a descriptive README.md
-[1] No (script) syntax errors
-[1] No other runtime errors
-[2] Includes a user-controlled player
-[2] A maze for the player to navigate
+Repository contains a descriptive README.md
+No (script) syntax errors
+No other runtime errors
+Includes a user-controlled player
+A maze for the player to navigate
 
 
-[1] Includes at least one enemy (Cheese Enemy) 
-[1] Reports the player's score (Includes both enemy and crate destroyed)
-[1] At least three material used  - (Stones, rock, cheese, and wood) 
-[1] Two placed light sources - (Overall directional light combined with turquoise spotlight)
-[3] Main menu, and an end-game screen 
+Includes at least one enemy (Cheese Enemy) 
+Reports the player's score (Includes both enemy and crate destroyed)
+At least three material used  - (Stones, rock, cheese, and wood) 
+Two placed light sources - (Overall directional light combined with turquoise spotlight)
+Main menu, and an end-game screen 
 
 
 Adds interesting features
